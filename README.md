@@ -8,7 +8,7 @@ This project demonstrates the design and deployment of a highly available and sc
 
 ## 🏗 Architecture
 
-![Architecture](architecture-diagram.png)
+![Architecture](screenshots/architecture-diagram.png)
 
 ---
 
