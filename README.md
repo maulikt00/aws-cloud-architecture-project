@@ -57,8 +57,13 @@ Live Demo: http://my-load-balancer-125627179.us-east-1.elb.amazonaws.com/
 ---
 
 ## 📸 Screenshots
-
-- EC2 instances running  
+![EC2 Instances](screenshots/ec2-instances.png)
+![Load Balancer](screenshots/load-balancer.png)
+![Target Group](screenshots/target-group.png)
+![Autoscaling](screenshots/autoscaling.png)
+![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Website](screenshots/website.png)
+- EC2 instances running
 - Load balancer configuration  
 - Target group health checks (healthy)  
 - Auto Scaling group activity  
