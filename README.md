@@ -7,13 +7,8 @@ This project demonstrates the design and deployment of a highly available and sc
 ---
 
 ## 🏗 Architecture
-Internet
-↓
-Application Load Balancer
-↓
-Auto Scaling Group (EC2 Instances across multiple AZs)
-↓
-S3 (Object Storage)
+
+![Architecture](architecture-diagram.png)
 
 ---
 
